@@ -1,0 +1,122 @@
+{
+  "filippo": {
+    "username": "filippo",
+    "password": "pacini",
+    "totalScore": 0,
+    "gamesPlayed": 6,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "gamesNotFinished": 6,
+    "currentStreak": 0,
+    "maxStreak": 0,
+    "perfectPuzzles": 0,
+    "mistakeHistogram": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      6
+    ]
+  },
+  "io": {
+    "username": "io",
+    "password": "enoi",
+    "totalScore": 0,
+    "gamesPlayed": 1,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "gamesNotFinished": 1,
+    "currentStreak": 0,
+    "maxStreak": 0,
+    "perfectPuzzles": 0,
+    "mistakeHistogram": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  "marco": {
+    "username": "marco",
+    "password": "franchi",
+    "totalScore": 0,
+    "gamesPlayed": 2,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "gamesNotFinished": 2,
+    "currentStreak": 0,
+    "maxStreak": 0,
+    "perfectPuzzles": 0,
+    "mistakeHistogram": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  "alice": {
+    "username": "alice",
+    "password": "bellucci",
+    "totalScore": 0,
+    "gamesPlayed": 1,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "gamesNotFinished": 1,
+    "currentStreak": 0,
+    "maxStreak": 0,
+    "perfectPuzzles": 0,
+    "mistakeHistogram": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  "sto": {
+    "username": "sto",
+    "password": "cazzo",
+    "totalScore": 0,
+    "gamesPlayed": 2,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "gamesNotFinished": 2,
+    "currentStreak": 0,
+    "maxStreak": 0,
+    "perfectPuzzles": 0,
+    "mistakeHistogram": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  "marchino": {
+    "username": "marchino",
+    "password": "pacini",
+    "totalScore": 0,
+    "gamesPlayed": 1,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "gamesNotFinished": 1,
+    "currentStreak": 0,
+    "maxStreak": 0,
+    "perfectPuzzles": 0,
+    "mistakeHistogram": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  }
+}

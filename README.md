@@ -1,2 +1,2 @@
 # Laboratorio3Pacini
-progetto di laboratorio 3 in java, anno 25/26. 
+LAB 3 project, 2025/2026 season.
